@@ -12,5 +12,5 @@ function updateObjectWithKeyAndValue(object, key, value){
 
 function updateObjectWithKeyAndValue(object, key,value){
   object.assign({},object,{key:[value]});
-  return
+  return object;
 }
