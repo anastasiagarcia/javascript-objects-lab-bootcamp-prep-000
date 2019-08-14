@@ -4,3 +4,5 @@ var recipes={
   sugar: "2 spoons"
   
 }
+
+function updateObjectWithKeyAndValue(object, key, value)
